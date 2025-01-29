@@ -1,0 +1,17 @@
+
+header{
+    background-color: green;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.title{
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+
+.subtitle{
+    color: white;
+    padding-bottom: 10px;
+}

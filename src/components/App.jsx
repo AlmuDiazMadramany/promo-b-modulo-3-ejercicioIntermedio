@@ -1,7 +1,22 @@
+import "../styles/App.css"
+import Header from "./Header"
+import  dataJson from "../services/data.json"
+import ListCountries from "./ListCountries"
+
+
 function App() {
 
   return (
-    <h1>template react</h1>
+    <>
+    <Header/>
+
+    <main>
+      <ListCountries countriesList ={dataJson}/>
+
+    </main>
+    
+    
+    </>
   
   )
 }

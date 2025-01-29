@@ -1,0 +1,21 @@
+
+.countryCard{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.countryName{
+font-size: 18px;
+}
+
+.countryCapital{
+    font-size: 14px;
+    font-weight: lighter;
+}
+
+.countryContinent{
+    font-size: 12px;
+    font-weight: lighter;
+}
